@@ -1,0 +1,6 @@
+<root>
+    <item name='org.springframework.http.HttpStatus INTERNAL_SERVER_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
